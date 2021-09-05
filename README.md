@@ -22,7 +22,7 @@ pip2 install mechanize
 
 pip install lolcat
 
-rm -rf FILESARFRAZ
+rm -rf Meer-Tools
 
 git clone https://github.com/Mr-Khoso/Meer-Tools
 
