@@ -2,7 +2,7 @@
 
 
 ![made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor)
-![Sarfraz-Baloch](https://img.shields.io/badge/Sarfraz%20-Baloch-green?style=for-the-badge&logo=appveyor)
+![Meer-Sultan](https://img.shields.io/badge/Mr%20-Khoso-green?style=for-the-badge&logo=appveyor)
  
 ![GitHub followers](https://img.shields.io/github/followers/Mr-Khoso?style=for-the-badge)
 
