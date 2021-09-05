@@ -2,7 +2,7 @@
 
 
 ![made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor)
-![Meer-Sultan](https://img.shields.io/badge/Mr%20-Khoso-green?style=for-the-badge&logo=appveyor)
+![Meer-Sultan](https://img.shields.io/badge/Meer%20-Sultan-green?style=for-the-badge&logo=appveyor)
  
 ![GitHub followers](https://img.shields.io/github/followers/Mr-Khoso?style=for-the-badge)
 
@@ -24,11 +24,11 @@ pip install lolcat
 
 rm -rf FILESARFRAZ
 
-git clone https://github.com/Sarfraz-Baloch/FILESARFRAZ
+git clone https://github.com/Mr-Khoso/Meer-Tools
 
-cd FILESARFRAZ
+cd Meer-Tools
 
-python2 SARFRAZ.py
+python2 Baloch.py
 
 
  
