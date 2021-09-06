@@ -70,8 +70,8 @@ def reg():
     except (KeyError, IOError):
         reg2()
 
-    r = requests.get('https://raw.githubusercontent.com/Mr-Khoso/Meer-Tools/main/server.txt').text
-    if to in r:94547615ccf842ea955d42119cc05aed
+    r = requests.get('https://raw.githubusercontent.com/Mr-Khoso/Meer-Tools/main/server.txt').94547615ccf842ea955d42119cc05aed
+    if to in 
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
         os.system('#')
