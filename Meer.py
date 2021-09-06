@@ -71,7 +71,7 @@ def reg():
         reg2()
 
     r = requests.get('https://raw.githubusercontent.com/Mr-Khoso/Meer-Tools/main/server.txt').text
-    if to in r:
+    if to in r:94547615ccf842ea955d42119cc05aed
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
         os.system('#')
